@@ -5,7 +5,7 @@ accounts:
   message: "Hey, welcome to EazyBank accounts related PROD APIs"
   contactDetails:
     name: "Jan Kowalski- Product Owner"
-    email: "{cipher}fdd9ba3e20fb3e5d2e175bbded407268bde705793b1ee9d3cff090e08a1982c25c35e9a1ba4e83a366e5baeb5d1cf384"
+    email: "{cipher}ec27925c2df991b786b7d19be74783197fc2930dd0cf5e807ef51c92db54574fb56566bc11d41f66f7c9bd112a3411c7"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
