@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Hey, welcome to EazyBank accounts related PROD APIs"
   contactDetails:
-    name: "Maria Stewart - Product Owner"
+    name: "Jan Kowalski - Product Owner"
     email: "{cipher}ec27925c2df991b786b7d19be74783197fc2930dd0cf5e807ef51c92db54574fb56566bc11d41f66f7c9bd112a3411c7"
   onCallSupport:
     - (453) 392-4829
