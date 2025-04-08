@@ -9,3 +9,9 @@ eureka:
     registerWithEureka: true
     serviceUrl:
       defaultZone: http://localhost:8070/eureka/
+
+gateway:
+  api-url:
+    accounts: "/eazybank/accounts/"
+    cards: "/eazybank/cards/"
+    loans: "/eazybank/loans/"
